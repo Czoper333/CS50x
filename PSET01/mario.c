@@ -19,7 +19,8 @@ int main(void)
         {
             printf(" ");
         }
-        for(int z = 0 ;z<i+2;z++){
+        for(int z = 0 ;z<i+2;z++)
+        {
             printf("#");
         }
         printf("\n");
