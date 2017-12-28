@@ -32,7 +32,7 @@ int main(int argc, string argv[])
       string code = GetString();
         
       for (int i = 0, n = strlen(code); i < n; i++)
-            {
+          {
               //check if the letter is uppercase or lowercase then convert
               if islower(code[i])
                   printf("%c", (((code[i] + k) - 97) % 26) + 97);
