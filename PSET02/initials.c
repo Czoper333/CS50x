@@ -1,6 +1,4 @@
-/*This programs prompt user for name and return initials.
-  This program is written by x.oper and this code is available
-  on the git repository named "CS50x" at https://github.com/Czoper33*/
+/*This programs prompt user for name and return initials. */
 
 #include <ctype.h>
 #include <string.h>
