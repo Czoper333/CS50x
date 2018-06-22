@@ -1,6 +1,4 @@
-/* This program calculates daily water usage
-  This program is written by x.oper and this code is available
-  on the git repository named "CS50x" at https://github.com/Czoper33*/
+/* This program calculates daily water usage */
 
 #include <stdio.h>
 
