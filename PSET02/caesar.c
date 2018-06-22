@@ -1,7 +1,4 @@
-/*Caesar.c
-  A program that encrypts messages using Caesar’s cipher. 
-  This program is written by x.oper and this code is available
-  on the git repository named "CS50x" at https://github.com/Czoper33*/
+/* Program that encrypts messages using Caesar’s cipher. */
   
 #include <stdio.h>
 #include <cs50.h>
