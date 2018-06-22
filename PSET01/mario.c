@@ -1,6 +1,4 @@
-/* This program print on the screen a half pyramid of specified height by the user
-  This program is written by x.oper and this code is available
-  on the git repository named "CS50x" at https://github.com/Czoper33*/
+/* This program print on the screen a half pyramid of specified height by the user */
 
 #include <stdio.h>
 
